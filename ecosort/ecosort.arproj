@@ -55,6 +55,24 @@
         },
         {
           "sectionFileLocation": "textures/t4.texture"
+        },
+        {
+          "sectionFileLocation": "textures/3.texture"
+        },
+        {
+          "sectionFileLocation": "textures/4.texture"
+        },
+        {
+          "sectionFileLocation": "textures/6.texture"
+        },
+        {
+          "sectionFileLocation": "textures/7.texture"
+        },
+        {
+          "sectionFileLocation": "textures/8.texture"
+        },
+        {
+          "sectionFileLocation": "textures/43.texture"
         }
       ]
     },
@@ -67,6 +85,9 @@
         },
         {
           "sectionFileLocation": "materials/tarsh_mat-2.material"
+        },
+        {
+          "sectionFileLocation": "materials/material0.material"
         }
       ]
     },
@@ -224,6 +245,108 @@
           "modelName": "textureExportConfig",
           "identifier": "textureExportConfig:918662-903f0aa2-dcad-4e04-8526-755dc51e3542",
           "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194444-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194446-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194448-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194450-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194452-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194454-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194456-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194458-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194460-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194462-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194464-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194466-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194468-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194470-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194472-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194474-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194476-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:194478-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "method": "fastest"
         }
       ]
     },
@@ -352,7 +475,7 @@
       "effectUsesFacialGestureRecognition": false,
       "effectUsesFieldOfView": false,
       "effectUsesFingerTracking": false,
-      "effectUsesFonts": false,
+      "effectUsesFonts": true,
       "effectUsesFormFactor": false,
       "effectUsesFrameBrightness": false,
       "effectUsesGalleryPicker": false,
@@ -481,7 +604,7 @@
       "effectUsesTimeScriptingModule": false,
       "effectUsesToasterTracking": false,
       "effectUsesTouchGestures": true,
-      "effectUsesTwoDimensionalText": false,
+      "effectUsesTwoDimensionalText": true,
       "effectUsesTypeScript": false,
       "effectUsesUiCore": false,
       "effectUsesUiPlanarBackend": false,
@@ -533,7 +656,7 @@
       "internalScriptingAPIEventStream": false,
       "internalScriptingAPIExperimentalCameraInfo": false,
       "internalScriptingAPIGlobalTransform": false,
-      "manuallyEnabledItemsIds": null,
+      "manuallyEnabledItemsIds": [],
       "maxParticipantsCount": 0,
       "multiclassSegmentationMinVersion": 3004,
       "objectTrackerMaxObjects": 1,
@@ -657,6 +780,20 @@
     {
       "modelName": "videos_model",
       "identifier": "videos_model:121231-903f0aa2-dcad-4e04-8526-755dc51e3542"
+    },
+    {
+      "modelName": "fonts",
+      "identifier": "fonts:147794-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+      "children": [
+        {
+          "modelName": "local_font_model",
+          "name": "Facebook Sans Bold",
+          "identifier": "local_font_model:200233-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "assetLocator": "200234-4cd7aa29-61a8-44b4-8006-be4037c07acf",
+          "fontIdentity": "com.facebook.editor.fonts.facebooksans-bold",
+          "isExternalAsset": false
+        }
+      ]
     }
   ]
 }
